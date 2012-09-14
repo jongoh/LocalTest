@@ -3,6 +3,8 @@ Released: 2012-08-10
 
 
 
+
+
 == Features ==
  * Fixed issue #238: submodule update should be recursive
  * Fixed issue #1234: Abbreviate renamings in the Log dialog as in the Commit Progress dialog
